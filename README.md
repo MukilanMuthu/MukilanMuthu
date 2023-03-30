@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MukilanMuthu
-- 👀 I’m interested in machine learning and data science
-- 🌱 I’m currently learning basics of machine learning
-- 💞️ I’m looking to collaborate on beginner friendly data science projects
+- 👀 I’m interested in software deevlopment
+- 🌱 I’m currently learning basics of flask
+- 💞️ I’m looking to collaborate on beginner friendly software development projects
 - 📫 Contact me at mukilanmuthu@kgpian.iitkgp.ac.in
 
 <!---
