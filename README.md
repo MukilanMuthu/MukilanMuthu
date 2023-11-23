@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MukilanMuthu
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning basics of flask
-- 💞️ I’m looking to collaborate on beginner friendly software development projects
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning the basics of JavaScript
+- 💞️ I’m looking to collaborate on beginner-friendly web development projects
 - 📫 Contact me at mukilanmuthu@kgpian.iitkgp.ac.in
 
 <!---
